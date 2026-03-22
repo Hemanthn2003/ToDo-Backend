@@ -3,72 +3,72 @@
     {
       "id": "1",
       "checked": false,
-      "item": "Apple"
+      "item": "Read Books"
     },
     {
       "id": "2",
       "checked": false,
-      "item": "Banana"
+      "item": "Shopping"
     },
     {
       "id": "3",
       "checked": false,
-      "item": "Orange"
+      "item": "Jogging"
     },
     {
       "id": "4",
       "checked": false,
-      "item": "Pineapple"
+      "item": "Take Bath"
     },
     {
       "id": "5",
       "checked": false,
-      "item": "Grapes"
+      "item": "Complete house works"
     },
     {
       "id": "6",
       "checked": false,
-      "item": "Strawberry"
+      "item": "Call plumber"
     },
     {
       "id": "7",
       "checked": false,
-      "item": "Blueberry"
+      "item": "Make a project"
     },
     {
       "id": "8",
       "checked": false,
-      "item": "Cranberry"
+      "item": "Call to boss"
     },
     {
       "id": "9",
       "checked": false,
-      "item": "Chikku"
+      "item": "Go to ATM"
     },
     {
       "id": "10",
       "checked": false,
-      "item": "Green Apple"
+      "item": "Post a BLOG"
     },
     {
       "id": "11",
       "checked": false,
-      "item": "Jack Fruit"
+      "item": "Go to the GYM"
     },
     {
       "id": "12",
       "checked": false,
-      "item": "Black Berry"
+      "item": "Cook food"
     },
     {
       "id": "13",
       "checked": false,
-      "item": "Cherry"
+      "item": "Clean Dish after dinner"
     },
     {
       "id": "14",
       "checked": false,
-      "item": "Litchi"
+      "item": "Sleep"
     }
   ]
 }
